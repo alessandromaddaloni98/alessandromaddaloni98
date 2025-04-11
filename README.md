@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi there! I'm Alessandro Maddaloni
 
-<!--
-**AlessandroMaddaloni98/AlessandroMaddaloni98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio — a space where I showcase some of my personal and professional projects.
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a curious and driven Data Scientist with a passion for turning data into insight through statistical modeling and machine learning.
+When I'm not immersed in code, you'll find me following football or exploring the ever-evolving world of artificial intelligence — with a special interest in Deep Learning and its real-world applications.
+
+🛠️ **Skills & Interests**  
+- Statistical Modeling  
+- Python & R  
+- Computer Vision  
+- Always exploring something new — currently diving into AI and automation 🤖
+
+🎯 Whether working solo or as part of a team, I thrive on creativity, curiosity, and continuous improvement.
